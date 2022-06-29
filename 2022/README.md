@@ -21,7 +21,7 @@ Schedule and materials for meetings in 2022
 | Jun 22   | Alex Gagliano   | Shapley values, based on a game theory approach to making machine learning models more interpretable |
 | Jun 29   | Covid           | |
 | Jul 06   | Wenda Zhou      | Diffusion model |
-| Jul 13   | Kaze Wong       |
+| Jul 13   | Kaze Wong       | Transformer |
 | Jul 20   | Siavash Golkar  | |
 | Jul 27   | Michael Eickenberg | NERF |
 | Aug 03   | Diane Salim     |
