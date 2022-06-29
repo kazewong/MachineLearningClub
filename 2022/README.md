@@ -22,7 +22,7 @@ Schedule and materials for meetings in 2022
 | Jun 29   | Covid           | |
 | Jul 06   | Wenda Zhou      | Diffusion model |
 | Jul 13   | Kaze Wong       |
-| Jul 20   |
+| Jul 20   | Siavash Golkar  | |
 | Jul 27   | Michael Eickenberg | NERF |
 | Aug 03   | Diane Salim     |
 | Aug 10   | Bo Xiao         |
