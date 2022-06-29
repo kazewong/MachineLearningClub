@@ -20,10 +20,10 @@ Schedule and materials for meetings in 2022
 | -------- | --------------- | ------- |
 | Jun 22   | Alex Gagliano   | Shapley values, based on a game theory approach to making machine learning models more interpretable |
 | Jun 29   | Covid           | |
-| Jul 01   | Wenda Zhou      | Diffusion model |
-| Jul 08   | Kaze Wong       |
-| Jul 15   |
-| Jul 23   |
+| Jul 06   | Wenda Zhou      | Diffusion model |
+| Jul 13   | Kaze Wong       |
+| Jul 20   |
+| Jul 27   |
 | Aug 03   | Diane Salim     |
 | Aug 10   | Bo Xiao         |
 | Aug 17   | Adam Lamson     |
