@@ -22,14 +22,14 @@ Schedule and materials for meetings in 2022
 | Jun 29   | Covid           | |
 | Jul 06   | Wenda Zhou      | Diffusion model |
 | Jul 13   | Kaze Wong       | Self-supervised model with SimCLR |
-| Jul 20   | Siavash Golkar  | |
+| Jul 20   | Siavash Golkar  | Few-Shot Learning by Dimensionality Reduction in Gradient Space |
 | Jul 27   | Michael Eickenberg | NERF |
 | Aug 03   | Diane Salim     |
-| Aug 10   | Bo Xiao         |
+| Aug 10   | Chirag Modi     |
 | Aug 17   | Adam Lamson     |
 | Aug 24   | Fiona McCarthy  |
 | Aug 31   | Dan Fortunato   |
 | Sep 07   | Natalie Sauerwald |
 | Sep 14   | Chris Pedersen  |
-| Sep 21   | Chirag Modhi    |
+| Sep 21   | Bo Xiao         |
 | Sep 28   | Sultan Hassan   |
