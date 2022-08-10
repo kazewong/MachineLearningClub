@@ -26,7 +26,7 @@ Schedule and materials for meetings in 2022
 | Jul 27   | Michael Eickenberg | NERF |
 | Aug 03   | FI poster       | Skipped |
 | Aug 10   | Diane Salim     | Super resolution in turbulence simulation |
-| Aug 17   | Chirag Modi     |
+| Aug 17   | Chirag Modi     | Bayesian neural network |
 | Aug 24   | Adam Lamson     |
 | Aug 31   | Fiona McCarthy  |
 | Sep 07   | Dan Fortunato   |
