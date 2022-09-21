@@ -13,6 +13,7 @@ Schedule and materials for meetings in 2022
 * Uncertainty qualtification
 * Graph neural network
 * Neural radiance field
+* Machine learning using physical systems
 
 **Schedule**
 
@@ -27,9 +28,10 @@ Schedule and materials for meetings in 2022
 | Aug 03   | FI poster       | Skipped |
 | Aug 10   | Diane Salim     | Super resolution in turbulence simulation |
 | Aug 17   | Chirag Modi     | Bayesian neural network |
-| Aug 24   | Adam Lamson     |
+| Aug 24   | Dust storm      | Skipped |
 | Aug 31   | Fiona McCarthy  |
 | Sep 07   | Dan Fortunato   |
 | Sep 14   | Sonya Hanson    |
 | Sep 21   | Bo Xiao         |
-| Sep 28   | Sultan Hassan   |
+| Sep 28   | Adam Lamon      | Physical reservoir computing|
+| Oct 05   | Sultan Hassan   |
