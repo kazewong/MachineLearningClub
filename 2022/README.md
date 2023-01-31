@@ -1,37 +1,27 @@
-Schedule and materials for meetings in 2022
+Schedule and materials for meetings in 2023
 
 **Topic list**
 
-* Interpretibility
-* Dimension Reduction
-* Transfer learning 
-* Transductive learning
+* Large Language Models
+* Hyperparameter optimization
 * Diffusion model
-* Generative model
-* Likelihood-free inference / Simulation-based inference
-* Symbolic regression
-* Uncertainty qualtification
-* Graph neural network
-* Neural radiance field
-* Machine learning using physical systems
+
 
 **Schedule**
 
 | Date     | Presenter       | Topic   |
 | -------- | --------------- | ------- |
-| Jun 22   | Alex Gagliano   | Shapley values, based on a game theory approach to making machine learning models more interpretable |
-| Jun 29   | Covid           | |
-| Jul 06   | Wenda Zhou      | Diffusion model |
-| Jul 13   | Kaze Wong       | Self-supervised model with SimCLR |
-| Jul 20   | Siavash Golkar  | Few-Shot Learning by Dimensionality Reduction in Gradient Space |
-| Jul 27   | Michael Eickenberg | NERF |
-| Aug 03   | FI poster       | Skipped |
-| Aug 10   | Diane Salim     | Super resolution in turbulence simulation |
-| Aug 17   | Chirag Modi     | Bayesian neural network |
-| Aug 24   | Dust storm      | Skipped |
-| Aug 31   | Fiona McCarthy  |
-| Sep 07   | Dan Fortunato   |
-| Sep 14   | Sonya Hanson    |
-| Sep 21   | Bo Xiao         |
-| Sep 28   | Adam Lamon      | Physical reservoir computing|
-| Oct 05   | Sultan Hassan   |
+| Feb 1 | Kaze Wong | Fine-tuning GPT with Hugging face |
+| Feb 8 | Anna Dawid | |
+| Feb 15 | Adam Lamson | |
+| Feb 22 | Ronan Legin |  |
+| Mar 1 | Ruben Ohana | |
+| Mar 8 | | |
+| Mar 15 | | |
+| Mar 22 | | |
+| Mar 29 | | |
+| Apr 5 | | |
+| Apr 12 | | |
+| Apr 19 | | |
+| Apr 26 | | |
+| May 3 | | |
