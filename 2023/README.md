@@ -16,7 +16,7 @@ Schedule and materials for meetings in 2023
 | Feb 15 | Adam Lamson | |
 | Feb 22 | Ronan Legin |  |
 | Mar 1 | Ruben Ohana | |
-| Mar 8 | | |
+| Mar 8 | Noah Amsel| In-context learning of LLMs |
 | Mar 15 | | |
 | Mar 22 | | |
 | Mar 29 | | |
