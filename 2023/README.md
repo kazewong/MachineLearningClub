@@ -12,7 +12,7 @@ Schedule and materials for meetings in 2023
 | Date     | Presenter       | Topic   |
 | -------- | --------------- | ------- |
 | Feb 1 | Kaze Wong | Fine-tuning GPT with Hugging face |
-| Feb 8 | Anna Dawid | |
+| Feb 8 | Anna Dawid | A subjective selection of interpretability methods for neural networks |
 | Feb 15 | Adam Lamson | |
 | Feb 22 | Ronan Legin |  |
 | Mar 1 | Ruben Ohana | |
