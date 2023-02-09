@@ -19,7 +19,7 @@ Schedule and materials for meetings in 2023
 | Mar 8 | Noah Amsel| In-context learning of LLMs |
 | Mar 15 | | |
 | Mar 22 | | |
-| Mar 29 | | |
+| Mar 29 | Siavash Golkar | |
 | Apr 5 | | |
 | Apr 12 | | |
 | Apr 19 | | |
