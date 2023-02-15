@@ -23,5 +23,5 @@ Schedule and materials for meetings in 2023
 | Apr 5 | | |
 | Apr 12 | | |
 | Apr 19 | | |
-| Apr 26 | | |
+| Apr 26 | Miles Cranmer | |
 | May 3 | | |
