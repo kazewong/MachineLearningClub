@@ -13,7 +13,7 @@ Schedule and materials for meetings in 2023
 | -------- | --------------- | ------- |
 | Feb 1 | Kaze Wong | Fine-tuning GPT with Hugging face |
 | Feb 8 | Anna Dawid | A subjective selection of interpretability methods for neural networks |
-| Feb 15 | Adam Lamson | |
+| Feb 15 | Adam Lamson | Novel transfer learning using fully interpretable neural networks |
 | Feb 22 | Ronan Legin |  |
 | Mar 1 | Kaze is not around | |
 | Mar 8 | Noah Amsel| In-context learning of LLMs |
