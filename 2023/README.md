@@ -17,7 +17,7 @@ Schedule and materials for meetings in 2023
 | Feb 22 | Ronan Legin |  |
 | Mar 1 | Kaze is not around | |
 | Mar 8 | Noah Amsel| In-context learning of LLMs |
-| Mar 15 | | |
+| Mar 15 | Justin Domke | |
 | Mar 22 | Ruben Ohana | |
 | Mar 29 | Siavash Golkar | |
 | Apr 5 | | |
