@@ -19,9 +19,9 @@ Schedule and materials for meetings in 2023
 | Mar 8 | Noah Amsel| In-context learning of LLMs |
 | Mar 15 | Justin Domke | |
 | Mar 22 | Kaze surviving Baltimore| |
-| Mar 29 | Siavash Golkar | |
+| Mar 29 | Rescheduled | |
 | Apr 5 | Ruben Ohana | |
-| Apr 12 | | |
+| Apr 12 | Siavash Golkar | |
 | Apr 19 | Kaze is flying to Europe | |
 | Apr 26 | Kaze is having a lot of fun in Europe | |
 | May 3 | Miles Cranmer | |
