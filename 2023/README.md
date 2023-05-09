@@ -24,4 +24,5 @@ Schedule and materials for meetings in 2023
 | Apr 12 | Siavash Golkar | |
 | Apr 19 | Kaze is flying to Europe | |
 | Apr 26 | Kaze is having a lot of fun in Europe | |
-| May 3 | Miles Cranmer | |
+| May 3 | Miles Cranmer | Postponed |
+| May 31 | Charles Margossian | Detail of autodiff |
