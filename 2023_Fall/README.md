@@ -7,6 +7,7 @@ Schedule and materials for meetings in 2023
 * GPU Compute
 * How autodiff actually works (Continue from last time)
 * Self-supervised multi-modal learning
+* MLOps and workflow
 
 **Schedule**
 
