@@ -14,3 +14,4 @@ Schedule and materials for meetings in 2023
 | Date     | Presenter       | Topic   |
 | -------- | --------------- | ------- |
 | Sep 26   | Ruben Ohana     | Kernel Fusion in GPU and Flash attenion |
+| Oct 17   | Berfin Simsek   | Landscape Complexity in neural network  |
